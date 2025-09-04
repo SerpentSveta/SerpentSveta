@@ -10,6 +10,7 @@
 
 - 🔰 At the start of my career, I worked at the advertising department of a tour operator. I was a catalog layout designer and also was engaged in site support.  
   
+- ⚡ [My self-introduction](https://github.com/SerpentSveta/self-introduction)
 
 <br/>  
 
