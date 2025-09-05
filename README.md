@@ -56,3 +56,28 @@
 <br/>  
 
 ----
+  
+
+<br/>  
+
+
+## Projects
+### Team Project: Jin Store  
+
+<img width="100%" alt="Jin Store" src="https://github.com/user-attachments/assets/82f35870-d826-4c1f-b853-068c0b81b489" />
+
+Deployment: [Link](https://jin-store.netlify.app/) (some features are currently unavailable in the deployed version due to an expired Commercetools subscription)  
+Project presentation: [Link](https://presentation-jin-store.netlify.app/)  
+
+Features
+  * User Authentication & Authorization.  
+  * Catalog: Browse products with search and filter functionality.
+  * Shopping Cart: Add, remove, and manage items for purchase. Apply promocodes to receive a discount.  
+  
+  Stack
+  * Vite — project bundler (dev + build modes)
+  * TypeScript — strongly typed programming language
+  * ESLint — code linting and style checking
+  * Prettier — automatic code formatting
+  * Husky + lint-staged — Git hooks for code quality checks before commits
+  * Jest — unit testing framework
