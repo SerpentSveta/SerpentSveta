@@ -66,6 +66,7 @@
 
 <img width="100%" alt="Jin Store" src="https://github.com/user-attachments/assets/82f35870-d826-4c1f-b853-068c0b81b489" />
 
+<br/> 
 Deployment: [Link](https://jin-store.netlify.app/) (some features are currently unavailable in the deployed version due to an expired Commercetools subscription)  
 Project presentation: [Link](https://presentation-jin-store.netlify.app/)  
 
